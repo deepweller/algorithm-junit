@@ -1,0 +1,6 @@
+.gradle
+.idea
+out
+/image
+/resources/img/blind
+/src/main/java/codingtest
