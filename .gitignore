@@ -1,6 +1,5 @@
 .gradle
 .idea
 out
-/image
-/resources/img/blind
+/resources/img
 /src/main/java/codingtest

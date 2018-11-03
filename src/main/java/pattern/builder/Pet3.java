@@ -15,12 +15,12 @@ public class Pet3 {
     private LocalDate dateOfBirth; //optional
     private String emailAddress; //optional
 
-    public static Pet3Builder builder(Animal animal, String petName, String ownerName, String address, String telephone) {
-        return hiddenBuilder()
-                .animal(animal)
-                .petName(petName)
-                .ownerName(ownerName)
-                .address(address)
-                .telephone(telephone);
-    }
+//    public static Pet3Builder builder(Animal animal, String petName, String ownerName, String address, String telephone) {
+//        return hiddenBuilder()
+//                .animal(animal)
+//                .petName(petName)
+//                .ownerName(ownerName)
+//                .address(address)
+//                .telephone(telephone);
+//    }
 }
